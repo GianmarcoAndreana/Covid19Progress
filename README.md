@@ -1,5 +1,5 @@
 # Covid19Progress
-Data visualization of Covid 19 progress
+Interactive data visualization of Covid 19 progress
 
 + Python
-+ Julia
++ Julia (work in progress)
