@@ -7,5 +7,6 @@ Interactive data visualization of Covid 19 progress
 
 ## Languages
 
+Jupyter notebooks:
 + Python
 + Julia (work in progress)
